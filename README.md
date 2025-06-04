@@ -1,5 +1,5 @@
 - Hi, I’m @Louis-Robinson-Code
-- I’m currently a second year robotics student currently learning C, python and kotlin for embedded systems, machine learning / vision, and app developement repsectively.
+- I’m currently a second year robotics student currently learning C, python and kotlin for embedded systems, machine learning / vision, and app developement respectively.
 
 
 <!---
